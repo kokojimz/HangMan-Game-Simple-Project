@@ -7,3 +7,12 @@
   <li>View leaderboards</li>
   <li>Exit</li>
 </ul>
+# Installation
+<ol>
+  <li>Download the zip file from this repositories and extract all of it</li>
+  <li>Open ```hangman.cpp``` on your code editor</li>
+  <li>You can run the program and create your own username(without spaces)</li>
+</ol>
+# Preview
+https://user-images.githubusercontent.com/93468154/214139655-743acf98-aae6-449c-a611-93ff1ab7b61e.mp4
+
