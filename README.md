@@ -13,6 +13,6 @@
   <li>Open <b>hangman.cpp</b> on your code editor</li>
   <li>You can run the program and create your own username(without spaces)</li>
 </ol>
-# Preview
-https://user-images.githubusercontent.com/93468154/214139655-743acf98-aae6-449c-a611-93ff1ab7b61e.mp4
+# Preview<br>
+<div style="height: 0; padding-bottom: calc(46.51%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/63ceef17669f3200110c4ac1?autoplay=true" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
 
