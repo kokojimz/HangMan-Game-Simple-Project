@@ -10,7 +10,7 @@
 # Installation
 <ol>
   <li>Download the zip file from this repositories and extract all of it</li>
-  <li>Open ```hangman.cpp``` on your code editor</li>
+  <li>Open <b>hangman.cpp</b> on your code editor</li>
   <li>You can run the program and create your own username(without spaces)</li>
 </ol>
 # Preview
