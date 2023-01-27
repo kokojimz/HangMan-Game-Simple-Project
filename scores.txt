@@ -1,4 +1,4 @@
-rety 1200
-re 1000
-sds 100
-a 0
+aldy 1200
+ziddan 1200
+bagier 100
+daffa 0
